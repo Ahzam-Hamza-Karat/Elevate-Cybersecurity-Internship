@@ -1,0 +1,30 @@
+🚨 Phishing Email Analysis – Task 2
+
+📩 Sample Email Summary:
+Subject: Urgent Action Required – Your Account Will Be Suspended!
+Sender: support@paypal.com
+Link: http://secure-login-paypal.com/account/verify
+
+---
+
+🔍 Red Flags in the Email:
+
+1. Fake Link:
+   - The URL looks like PayPal but is actually a fake: "secure-login-paypal.com"
+
+2. Urgency and Fear:
+   - The email says the account will be suspended in 24 hours to scare the user.
+
+3. Generic Greeting:
+   - It says “Dear Customer” instead of using your real name.
+
+4. Impersonation:
+   - Signed by “PayPal Security Team” – a fake identity to gain trust.
+
+5. Unusual Language:
+   - Wording is slightly off or too formal, which is suspicious.
+
+---
+
+🔐 Conclusion:
+This email is a classic phishing attempt. It tricks users with urgency and fake links to steal login credentials. It should not be trusted and must be reported or deleted.
